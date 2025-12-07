@@ -79,21 +79,24 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
-  ],
+  'Python',
+  'Java',
+  'SQL',
+  'JavaScript',
+  'HTML',
+  'CSS',
+  'React.js',
+  'FASTAPI',
+  'RESTAPI',
+  'Spring Boot',
+  'Git',
+  'MySQL',
+  'PostgreSQL',
+  'Power BI',
+  'Docker',
+  'GCP',
+  'GitHub',
+],
   experiences: [
     {
       company: 'Company Name',
@@ -220,7 +223,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/vishank020/profile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
